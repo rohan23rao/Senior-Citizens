@@ -3,19 +3,19 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Talks"
+  - title: "Contact"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Help"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Updates"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "External Resources"
     url: /cv/
     
   - title: "Guide"
