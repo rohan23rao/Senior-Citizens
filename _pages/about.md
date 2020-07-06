@@ -16,7 +16,7 @@ Like many other Senior citizen websites, you can go around helping all the senio
 
 Getting started
 ======
-1. If you are a Senior Citizen, go to the seniors page above.
+1. If you are a Senior Citizen, go to the seniors page above test.
 1. If you are a volunteer, go to the volunteers page.
 1. As a Senior, you will need to put in information about what kind of food you like of want, and what times are best for you.
 1. If you are a volunteer, after entering your info, check your email for what food the senior you are assigned to wants.
