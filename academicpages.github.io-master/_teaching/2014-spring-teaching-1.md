@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Senior expirience"
 collection: teaching
-type: "Undergraduate course"
+type: "My course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Cuesta Park"
 date: 2014-01-01
 location: "City, Country"
 ---
