@@ -2,9 +2,9 @@
 title: "Seniors 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2020-spring-teaching-1
 venue: "A senior"
-date: 
+date: 2020
 location: "City, Country"
 ---
 
