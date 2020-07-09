@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is a website where Volunteers can contact Seniors and they can deliver food. Here is the [Contact Page](https://github.com/bigrao23/bigrao23.github.io).
+This is a website where Volunteers can contact Seniors and they can deliver food. Here is the [Contact Page](https://bigrao23.github.io/markdown/).
 
 A Senior Citizen Website
 ======
