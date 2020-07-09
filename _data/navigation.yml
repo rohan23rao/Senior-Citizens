@@ -3,20 +3,20 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "contact"
+  - title: "My Profile"
     url: /talks/    
 
-  - title: "Help"
+  - title: "What Service do I offer?"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "What is this site about?"
     url: /portfolio/
         
-  - title: "why I am doing this"
+  - title: "Reasons for this Website/Mission Statement"
     url: /year-archive/
     
-  - title: "Guide"
+  - title: "Photo Gallery"
     url: /cv/
     
-  - title: "External Resources"
+  - title: "Contact Us"
     url: /markdown/
