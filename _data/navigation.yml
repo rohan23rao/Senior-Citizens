@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: ""
+  - title: "What is this website about?"
     url: /talks/    
 
   - title: "What Service do I offer?"
