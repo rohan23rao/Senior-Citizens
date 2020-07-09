@@ -3,13 +3,13 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "My Profile"
+  - title: ""
     url: /talks/    
 
   - title: "What Service do I offer?"
     url: /teaching/    
     
-  - title: "What is this site about?"
+  - title: "My Profile"
     url: /portfolio/
         
   - title: "Reasons for this Website/Mission Statement"
