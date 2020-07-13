@@ -15,3 +15,10 @@ Our Mission Statement:
 =====
 To help people in need, and to help volunteers and Senior Citizens feel fulfilled and enjoy a meal.
 
+Covid Saftey
+=====
+Food will be served in a nice outdoor setting in your own front or back yard or common outside area. 
+Staff will be masked and all the necessary precautions will be taken with sanitation.
+You don’t have to worry about plates or silverware or even tables/chairs. It will all be provided to you. All the needed cutlery and silverware will be brought to you.
+All you have to do is relax and enjoy your meal.
+
