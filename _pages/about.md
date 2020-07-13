@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-A Senior Citizen Food Delivery Website
-=====
-
 This is a website where Volunteers can contact Seniors and they can deliver food. Here is the [Contact Page](https://bigrao23.github.io/markdown/).
 
 A Website made for Senior Citizens looking to get a nice meal from a volunteer or myself.
