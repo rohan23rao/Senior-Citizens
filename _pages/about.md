@@ -8,37 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+
+A Senior Citizen Food Delivery Website
+=====
+
 This is a website where Volunteers can contact Seniors and they can deliver food. Here is the [Contact Page](https://bigrao23.github.io/markdown/).
 
-A Senior Citizen Website
-======
-Like many other Senior citizen websites, you can go around helping all the senior you want. 
-
+A Website made for Senior Citizens looking to get a nice meal from a volunteer or myself.
+Go to the [what is this website about page](https://bigrao23.github.io/cv/) for more information.
 Getting started
-======
-1. If you are a Senior Citizen, go to the seniors page above test.
-1. If you are a volunteer, go to the volunteers page.
+=====
+1. If you are a Senior Citizen, go to the [what is this website about page](https://bigrao23.github.io/cv/).
+1. Then go to the [contact page](https://bigrao23.github.io/markdown).
 1. As a Senior, you will need to put in information about what kind of food you like of want, and what times are best for you.
-1. If you are a volunteer, after entering your info, check your email for what food the senior you are assigned to wants.
-1. The last step is to deliver the food.
+1. To request food go to the What is this website about page, or the contact page to ask for food.
 
 More info
-------
-My name is Rohan Rao, and I am a volunteer who made this website to help out senior citizens and volunteers to connect, and to become closer in the community.
-
-Senior Saftey
-------
-Make sure to be always nice to your seniors
-
-**Markdown generator**
-
-Always try to deliver foood to your senior and be only as comfortable as they are.
-
-Food
-------
-Make sure to cook only food to the seniors dietary restrictions, and try to make food they enjoy.
-
-
-For more info
-------
-Look on the side for my contact info, or go to the contact page.
+=====
+My name is Rohan Rao, and I am a volunteer who made this website to help out senior citizens and volunteers to connect, and to become closer in the community. Also, I want to provide Seniors with a restaraunt expirience from the comfort of thier homes.
