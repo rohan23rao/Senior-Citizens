@@ -13,6 +13,7 @@ This is a website where Volunteers can contact Seniors and they can deliver food
 
 A Website made for Senior Citizens looking to get a nice meal from a volunteer or myself.
 Go to the [what is this website about page](https://bigrao23.github.io/cv/) for more information.
+
 Getting started
 =====
 1. If you are a Senior Citizen, go to the [what is this website about page](https://bigrao23.github.io/cv/).
