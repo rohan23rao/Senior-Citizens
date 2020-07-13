@@ -16,7 +16,7 @@ Go to the what is this website about page for more information.
 
 Getting started
 ======
-1. If you are a Senior Citizen, go to the seniors page above test.
+1. If you are a Senior Citizen, go to the what is this website page above.
 1. As a Senior, you will need to put in information about what kind of food you like of want, and what times are best for you.
 1. To request food go to the What is this website about page, or the contact page to ask for food.
 
