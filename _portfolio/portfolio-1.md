@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: ""
 collection: portfolio
 ---
 
