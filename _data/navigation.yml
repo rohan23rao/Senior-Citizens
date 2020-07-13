@@ -3,19 +3,19 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "What is this website about?"
+  - title: "Photo Gallery"
     url: /talks/    
 
-  - title: "What Service do I offer?"
+  - title: ""
     url: /teaching/    
     
   - title: "My Profile"
     url: /portfolio/
         
-  - title: "Reasons for this Website/Mission Statement"
+  - title: ""
     url: /year-archive/
     
-  - title: "Photo Gallery"
+  - title: "What is this website about"
     url: /cv/
     
   - title: "Contact Us"
